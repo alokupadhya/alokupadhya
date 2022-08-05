@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python & PHP**
 
-- 📫 How to reach me **Discord: xy0ke#1954**
+- 📫 Reach me at **alokupadhya0@gmail.com**
 
 - ⚡ Fun fact **I like bike riding 😍**
 
