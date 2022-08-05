@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/alokupadhya" target="blank"><img src="https://img.shields.io/twitter/follow/alokupadhya?logo=twitter&style=for-the-badge" alt="alokupadhya" /></a> </p>
 
-<p align="center"> <a href="https://rishub.cc" target="blank"><img src="https://img.shields.io/website?label=rishub.cc&style=for-the-badge&url=https%3A%2F%2Frishub.cc" alt="alokupadhya" /></a> </p>
+<p align="center"> <a href="https://alokupadhya.cc" target="blank"><img src="https://img.shields.io/website?label=alokupadhya.cc&style=for-the-badge&url=https%3A%2F%2Frishub.cc" alt="alokupadhya" /></a> </p>
 
 
 - 🔭 I’m currently working on **private projects**
